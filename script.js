@@ -132,3 +132,7 @@ let touch =document.querySelector(".touch")
 contactbtn.addEventListener("click",()=>{
     touch.scrollIntoView()
 })
+function resume(){
+    window.open("muhammad usman.pdf","_blank")
+
+}
