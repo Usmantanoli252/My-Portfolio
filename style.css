@@ -285,6 +285,10 @@ body{
     height: 50vh;
     
 }
+.no-one a{
+    text-decoration: none;
+    color: black;
+}
 
  .new-projects{
     display: flex;
